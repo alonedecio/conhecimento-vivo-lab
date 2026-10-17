@@ -1,0 +1,16 @@
+/* Creative Lab 002 — exploratory / not approved */
+:root {
+  --cv-void:#060B10; --cv-abyss:#0F1A24; --cv-graphite:#1B3135;
+  --cv-paper:#EAF1EC; --cv-muted:#A7BBB5;
+  --cv-living-mint:#A8FFD7; --cv-aurora-teal:#56DCB8;
+  --cv-soul-gold:#F0C98D; --cv-nebula-violet:#9786CB;
+  --cv-font-display:'Syne',sans-serif;
+  --cv-font-body:'Sora',sans-serif;
+  --cv-font-mono:'IBM Plex Mono',monospace;
+  --cv-radius-card:16px;
+  --cv-motion-fast:180ms;
+  --cv-motion-medium:600ms;
+  --cv-motion-scene:1100ms;
+  --cv-motion-curve:cubic-bezier(.22,1,.36,1);
+}
+/* These tokens are NOT imported by the official site. */
